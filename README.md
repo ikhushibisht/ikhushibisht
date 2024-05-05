@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FashioNest](https://github.com/ikhushibisht/FashioNest) project
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C++, React JS**
 
 - 👯 I’m looking to collaborate on **App Development, ML Projects**
 
