@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Bisht</h1>
-<h3 align="center">Currently doing Mobile App Development</h3>
+/*<h3 align="center">Currently doing Mobile App Development</h3>*/
 
 - 🔭 I’m currently working on [FashioNest](https://github.com/ikhushibisht/FashioNest)
 
