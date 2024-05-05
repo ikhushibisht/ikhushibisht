@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C++, React JS**
 
-- 👯 I’m looking to collaborate on **App Development, ML Projects**
+- 👯 I’m looking to collaborate on **Mobile App Development, Web Development ML Projects**
 
 - 📫 How to reach me **khushibisht2319@gmail.com**
 
